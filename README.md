@@ -67,24 +67,27 @@ Hardworking, adaptable, and detail-oriented, I thrive under pressure and enjoy s
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects
 
-### 🏥 Healthcare Application (Hackathon)  
-- Built a **full-stack healthcare web app** for patient registration, appointments, and health record management.  
-- Used **React.js**, **Node.js**, **Express**, and **MongoDB** for real-time data handling and intuitive UI/UX.  
-
----
-
-### 🎮 Quiz App (MERN Stack)  
-- Developed a **Quiz App** with instant scoring and admin dashboard for quiz management.  
-- Tech: **React.js**, **Node.js**, **Express.js**, **MongoDB**  
+### 🏥 [Healthcare Application (Hackathon)](https://github.com/dpkasahu/healthcare-application)
+- Built a **full-stack healthcare web app** for patient registration, appointment booking, and health record management.  
+- Used **React.js**, **Node.js**, **Express**, and **MongoDB** for real-time data handling and seamless UI/UX.  
+**Tech:** React.js · Node.js · Express.js · MongoDB  
 
 ---
 
-### 🩸 Blood Donation Website  
-- A **React-based platform** connecting donors & recipients.  
-- Features donor registration and recipient search with eligibility validation.  
+### 🎮 [Quiz App (MERN Stack)](https://github.com/dpkasahu/quiz-app)
+- Developed a **Quiz App** with instant scoring and an admin dashboard for managing quizzes.  
+- Features adding, updating, and deleting questions and categories.  
+**Tech:** React.js · Node.js · Express.js · MongoDB  
 
+
+---
+
+### ✅ [ToDo App](https://github.com/dpkasahu/todo-app)
+- A **cross-platform React Native ToDo App** with add, edit, complete & delete features.  
+- Real-time data sync using Convex backend.  
+**Tech:** React Native · Expo · Convex  
 ---
 
 
@@ -101,4 +104,4 @@ Hardworking, adaptable, and detail-oriented, I thrive under pressure and enjoy s
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpkasahu&theme=dracula&no-bg=true&no-frame=true)
 
 ---
-deepikasahu2053@gmail.com)
+
