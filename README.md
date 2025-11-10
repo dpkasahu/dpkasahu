@@ -30,19 +30,40 @@ Hardworking, adaptable, and detail-oriented, I thrive under pressure and enjoy s
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack:
 
-### 🖥️ Frontend  
-React.js · HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS  
+**Frontend:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
-### ⚙️ Backend  
-Java · JSP · Servlet · Node.js · Express.js · Hibernate  
+**Backend:**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![JSP](https://img.shields.io/badge/jsp-%23FF6F00.svg?style=plastic&logo=java&logoColor=white) 
+![Servlet](https://img.shields.io/badge/servlet-%23007396.svg?style=plastic&logo=java&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/hibernate-%235C8DBC.svg?style=plastic&logo=hibernate&logoColor=white)
 
-### 🗄️ Database  
-MySQL · MongoDB · Oracle (Basics)  
+**Database:**  
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=plastic&logo=database&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=plastic&logo=oracle&logoColor=white)
 
-### 🧰 Tools  
-VS Code · Eclipse · IntelliJ · Git · GitHub · Postman · Oracle  
+**Python Libraries:**  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+
+**Tools & IDEs:**  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=plastic&logo=eclipse&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&color=525252) 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) 
+
 
 ---
 
@@ -66,14 +87,7 @@ VS Code · Eclipse · IntelliJ · Git · GitHub · Postman · Oracle
 
 ---
 
-## 🏆 Achievements & Certificates  
-- Salesforce Administrator Virtual Internship  
-- NPTEL: *The Joy of Python Programming (Silver Elite)*  
-- Metaverse Faculty Development Workshop  
-- MERN Stack Internship (GIET University, 2024)  
-- LeetCode 50 Days Badge 🏅  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -87,8 +101,4 @@ VS Code · Eclipse · IntelliJ · Git · GitHub · Postman · Oracle
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpkasahu&theme=dracula&no-bg=true&no-frame=true)
 
 ---
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepika_Sahu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepika-sahu-280b61292)  
-[![GitHub](https://img.shields.io/badge/GitHub-dpkasahu-black?style=for-the-badge&logo=github)](https://github.com/dpkasahu)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:deepikasahu2053@gmail.com)
+deepikasahu2053@gmail.com)
