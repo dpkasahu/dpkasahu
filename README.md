@@ -76,7 +76,7 @@ Hardworking, adaptable, and detail-oriented, I thrive under pressure and enjoy s
 
 ---
 
-### 🎮 [Quiz App (MERN Stack)](https://github.com/dpkasahu/quiz-app)
+### 🎮 [Quiz App (MERN Stack)](https://github.com/dpkasahu/Quiz)
 - Developed a **Quiz App** with instant scoring and an admin dashboard for managing quizzes.  
 - Features adding, updating, and deleting questions and categories.  
 **Tech:** React.js · Node.js · Express.js · MongoDB  
