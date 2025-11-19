@@ -3,7 +3,7 @@
 
 ---
 
-### 🌍 Location  
+### 🌍 Location   
 📍 Hyderabad, India  
 
 ### ✉️ Contact  
